@@ -1,15 +1,13 @@
 # Sessões Feitas
 
 ## Setup Inicial
-- [ ] Projeto no GitHub
-	- [ ] Repositório no GitHub
-	- [ ] Repositório Local
-	- [ ] Primeiro Commit
-	- [ ] teste
-- [ ] Arquivos e Pastas
-	- [ ] Index.html, styles.css, script.js
-	- [ ] Pasta src e styles, js images
-	- [ ] asd
+- [x] Projeto no GitHub
+	- [x] Repositório no GitHub
+	- [x] Repositório Local
+	- [x] Primeiro Commit
+- [x] Arquivos e Pastas
+	- [x] Index.html, styles.css, script.js
+	- [x] Pasta src e styles, js images
 - [ ] Figma
 	- [ ] Layout da Navbar
 	- [ ] Layout de um gerador
